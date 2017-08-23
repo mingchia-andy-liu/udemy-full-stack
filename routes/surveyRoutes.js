@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 const requireLogin = require('../middlewares/requireLogin')
 const requireCredits = require('../middlewares/requireCredits')
 
-const Survey = mongoose.model('surveys')
+const Survey = mongoose.model('survey')
 
 module.exports = (app) => {
     app.post(
