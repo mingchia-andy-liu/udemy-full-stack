@@ -3,6 +3,9 @@
 A single page application that offers users to send massive amount of survey to their customers. Surveys options are tracked and displayed to the users.
 You can view the a live demo [here](https://ancient-ocean-31474.herokuapp.com). This is a course from [udemy](https://www.udemy.com/node-with-react-fullstack-web-development)
 
+## Screenshot
+![screenshot](assets/Dashboard.png)
+
 ## Tech Stack
 #### Frontend
 Frontend used the boilerplate project `Create-React-App` as a starting point.
